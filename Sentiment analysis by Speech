@@ -1,0 +1,5 @@
+Q1. What is this Project ?
+Ans. In this Project User can calculated sentiment score of any statement. (Positive/ Negative/ Neutral)
+Q2. How it works ?
+Ans. After run this program user has to speak anything (English), after finishing the statement it will automatically calculate sentiment score and category of the statement.
+sentiment score varies between -1 to +1
